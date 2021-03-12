@@ -1,0 +1,6 @@
+D:\Задачи - програмиране\2 семестър - ООП\DrawFigures\Lib\obj\Debug\Lib.csprojAssemblyReference.cache
+D:\Задачи - програмиране\2 семестър - ООП\DrawFigures\Lib\bin\Debug\Lib.dll
+D:\Задачи - програмиране\2 семестър - ООП\DrawFigures\Lib\bin\Debug\Lib.pdb
+D:\Задачи - програмиране\2 семестър - ООП\DrawFigures\Lib\obj\Debug\Lib.dll
+D:\Задачи - програмиране\2 семестър - ООП\DrawFigures\Lib\obj\Debug\Lib.pdb
+D:\Задачи - програмиране\2 семестър - ООП\DrawFigures\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
